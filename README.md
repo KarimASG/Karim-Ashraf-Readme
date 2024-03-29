@@ -1,10 +1,10 @@
 
-<img align="left" src="[D:/WhatsApp Image 2024-03-28 at 3.43.41 PM.jpeg](https://drive.google.com/file/d/1me51H_kTjQs6ZkXdYVOdlSd1vwAa10R3/view?usp=drive_link)" alt="Your Image" width="200" height="200"><br><br>
 <h2 align="center">Hi 👋! <br>I'm Karim Ashraf El Sayed<br><br>Passionate Data Analyst<br><br>
-</h2>
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarimASG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</h2><br><br>
+<div align="left">
+  <img src="[DIRECT_IMAGE_URL](https://drive.google.com/file/d/1me51H_kTjQs6ZkXdYVOdlSd1vwAa10R3/view)" alt="Your Image" width="200" height="200">
 </div>
+
 <br><br>
 
 <div align="center">
@@ -78,9 +78,9 @@
   </a>
 </div>
 <br clear="both">
-###
+
 <h3 align="left">🔥   My Stats :</h3>
-###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
