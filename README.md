@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋! <br>I'm Karim Ashraf El Sayed<br><br>Passionate Data Analyst</h2>
-<img src="D:\WhatsApp Image 2024-03-28 at 3.43.41 PM.jpeg" alt="Your Image">
 <img src="D:\WhatsApp Image 2024-03-28 at 3.43.41 PM.jpeg" alt="Your Image" width="200" height="200">
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KarimASG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarimASG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
