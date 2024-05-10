@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karim Ashraf El Sayed</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Karim-ashraf-elsayed&label=Profile%20views&color=0e75b6&style=flat" alt="Karim-ashraf-elsayed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Karim-ashraf-elsayed" alt="Karim-ashraf-elsayed" /></a> </p>
 
 - 🔭 I’m currently a student in **Faculty of Computer Science and Artificial Intelligence**
 
@@ -26,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/karim-ashraf-319b27209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/karim-ashraf-319b27209/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/lordtenson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kareemasg" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/kareemasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kareemasg" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kareemasg65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kareemasg65" height="30" width="40" /></a>
 </p>
 
