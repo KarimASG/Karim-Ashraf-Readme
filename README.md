@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Data Analyst and BI Analyst</h3>
 
 
-- 🔭 I’m currently a graduated From # Faculty of Computer Science and Artificial Intelligence Helwan University #
+- 🔭 I’m currently a graduated From **Faculty of Computer Science and Artificial Intelligence Helwan University**
 
-- 🌱 I’m currently Working ** Data Analyst at Codesk By Diwan BookStore **
+- 🌱 I’m currently Working **Data Analyst at Codesk By Diwan BookStore**
 
 - 👯 I’m looking to collaborate on **other projects**
 
