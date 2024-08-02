@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karim Ashraf El Sayed</h1>
 <h3 align="center">A passionate Data Analyst and BI Analyst</h3>
+<img src="https://drive.google.com/file/d/1Rneu3YmgsfHI96pAGej55SWahISmFcNg/view?usp=drive_link" alt="Karim">
 
 
 - 🔭 I’m currently a graduated From **Faculty of Computer Science and Artificial Intelligence Helwan University**
