@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Karim Ashraf El Sayed</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Analyst and BI Analyst</h3>
 
 
-- 🔭 I’m currently a student in **Faculty of Computer Science and Artificial Intelligence**
+- 🔭 I’m currently a graduated From **Faculty of Computer Science and Artificial Intelligence Helwan University **
 
-- 🌱 I’m currently learning **Data Analysis , Machine Learning , Deep Learning **
+- 🌱 I’m currently Working **Data Analyst at Codesk By Diwan BookStore , Machine Learning **
 
 - 👯 I’m looking to collaborate on **other projects**
 
@@ -15,7 +15,7 @@
 - 📫 How to reach me **kareemasg65@gmail.com**
 
  <!--
-- 🔗 [Linked-in] (www.linkedin.com/in/karim-ashraf-319b27209)
+- 🔗 [Linked-in] (www.linkedin.com/in/karim-ashraf-elsayed-)
 - 💻 [Kaggle] (https://www.kaggle.com/kareemasg)
 - 👨‍💻 [CodeForces] (https://codeforces.com/profile/kareemasg65)
 -->
