@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karim Ashraf El Sayed</h1>
 <h3 align="center">A passionate Data Analyst and BI Analyst</h3>
-<img src="https://drive.google.com/file/d/1vM-UX2WkK9FZXpLnAjAROzZLxC0mGOSC/view?usp=sharing" alt="Karim">
+<img src="https://drive.google.com/file/d/1vM-UX2WkK9FZXpLnAjAROzZLxC0mGOSC/view?usp=sharing" alt="Karim Ashraf El Sayed" width="100" height="100">
 
 
 
