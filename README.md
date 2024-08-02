@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karim Ashraf El Sayed</h1>
 <h3 align="center">A passionate Data Analyst and BI Analyst</h3>
-<img src="C:\Users\Karim Ashraf\OneDrive - Faculty of Computers and Information\Pictures\IMG_0135.jpg" alt="Your Name">
+<img src="https://drive.google.com/file/d/1vM-UX2WkK9FZXpLnAjAROzZLxC0mGOSC/view?usp=drive_link" alt="IMG_0135">
 
 
 
